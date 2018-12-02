@@ -1,0 +1,8 @@
+{
+  "name": "SpiceMC",
+  "version": "1.0.0",
+  "description": "De officiële bot van SpiceMC",
+  "main": "bot.js",
+  "author": "Dutchiey",
+  "dependencies": {}
+}
